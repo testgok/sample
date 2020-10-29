@@ -1,0 +1,2 @@
+- name: Approve Pull Request
+  uses: juliangruber/approve-pull-request-action@v1.0.1
